@@ -7,7 +7,9 @@ const cardSymbols = ["A♠","K♠", "A♥", "J♥", "K♥", "A♦", "A♣", "K�
 let cards = [];
 let flippedCards = [];
 let lockBoard = false;
-
+/*addcegygeyegye
+efygeded
+dyedye*/
 /* Shuffle Function (Fisher-Yates) */
 function shuffle(array) {
   for (let i = array.length - 1; i > 0; i--) {
